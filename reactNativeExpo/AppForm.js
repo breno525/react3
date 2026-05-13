@@ -1,6 +1,3 @@
-import { StatusBar} from 'expo-status-bar';
-import React from 'react';
-import { TextInput } from 'react-native-web';
 
 export default function AppForm() {
     return (
